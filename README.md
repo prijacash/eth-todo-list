@@ -10,3 +10,11 @@ Click Here To: [Build Your First Blockchain App](https://www.youtube.com/watch?v
 - Truffle - Ganache
 - Node.js
 - Terminal
+
+# Steps
+- Project Setup
+- List Tasks
+    - List tasks in the smart contract
+    - List tasks in the console
+    - List tasks in the client side application
+    - List tasks in the test
