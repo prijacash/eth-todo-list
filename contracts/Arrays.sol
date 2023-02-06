@@ -7,6 +7,7 @@ pragma solidity ^0.8.3;
 // Insert (push), get, update, delete, pop, length
 // Creating array in memory
 // Returning array from function
+// Arrays for metacraft
 
 contract Array {
     uint[] public nums = [1, 2, 3];
